@@ -35,7 +35,7 @@ Before running this application, make sure you have:
 
 4. Start the Ollama service:
 ```bash
-ollama serve
+ollama serve```
 
 
 1. Download Node.js: https://nodejs.org/
