@@ -24,12 +24,14 @@ Before running this application, make sure you have:
 2. npm
 3. Ollama installed and running on your system
 
-## Installing Ollama
+### Installing Ollama
 
-1. Visit Ollama's official website.
+1. Visit [Ollama's official website](https://ollama.ai).
 2. Download and install Ollama for your operating system.
-3. Pull the required models
-   ```bash ollama pull llama3 ollama pull mistral```
+3. Pull the required models:
+   ```bash
+   ollama pull llama3
+   ollama pull mistral
 
 ## Setup 
 
