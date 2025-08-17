@@ -1,7 +1,7 @@
-# BotBuilder_Game2Lab
+## BotBuilder_Game2Lab
 
-**Setup 
-**
+# Setup 
+
 
 1. Download Node.js: https://nodejs.org/
 2. Verify Installation: 
