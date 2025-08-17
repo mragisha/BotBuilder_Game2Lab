@@ -33,6 +33,10 @@ Before running this application, make sure you have:
    ollama pull llama3
    ollama pull mistral
 
+4. Start the Ollama service:
+```bash
+ollama serve
+
 ## Setup 
 
 
