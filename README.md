@@ -34,13 +34,14 @@ Before running this application, make sure you have:
    ollama pull mistral
 
 4. Start the Ollama service:
-```bash
-ollama serve```
+   ```bash
+   ollama serve
 
+### Install Dependencies
 
-1. Download Node.js: https://nodejs.org/
-2. Verify Installation: 
-node --version
-npm --version
-3. Run the application:
+    npm install
+      
+### Start the Development Server
+
    npm run dev
+
