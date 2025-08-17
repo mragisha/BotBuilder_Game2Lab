@@ -39,9 +39,10 @@ Before running this application, make sure you have:
 
 ### Install Dependencies
 
-    ```npm install
+    npm install
       
 ### Start the Development Server
 
-   ```npm run dev
+   ```bash
+      npm run dev
 
