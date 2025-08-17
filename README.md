@@ -7,6 +7,23 @@
 3. Chat History: View recent conversation logs with truncated summaries
 4. Multiple Models: Support for Llama3 and Mistral models via Ollama
 
+## Tech Stack
+### Frontend
+
+React 
+
+### Backend Integration
+
+1. Ollama API 
+2. REST API
+
+## Prerequisites
+Before running this application, make sure you have:
+
+1. Node.js (version 16 or higher)
+2. npm
+3. Ollama installed and running on your system
+
 ## Setup 
 
 
