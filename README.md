@@ -37,8 +37,6 @@ Before running this application, make sure you have:
 ```bash
 ollama serve
 
-## Setup 
-
 
 1. Download Node.js: https://nodejs.org/
 2. Verify Installation: 
